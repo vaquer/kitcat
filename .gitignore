@@ -1,0 +1,3 @@
+*.pyc
+kitcat.egg-info/
+dist/
