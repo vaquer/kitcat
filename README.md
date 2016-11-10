@@ -28,6 +28,9 @@ $ git clone git@github.com:mxabierto/kitcat.git
 ```sh
 $ bash kitcat/install.sh develop
 ```
+
+**Nota: Las dependencias que se instalaran son: Docker 1.12, pip (ultima versión), setuptools(ultima versión)**
+
 ### Uso
 Finalmente para levantar el ecosistema de CKAN es necesario correr los siguientes comandos.
 
